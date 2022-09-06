@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Julie DEE</h1>
+
+![REACT-4](https://user-images.githubusercontent.com/107067269/188629529-bc62ce05-8dc4-4956-9681-0107f7b3822a.gif)
 <h3 align="center">Passionate Fullstack developper - Ready to work 🔥</h3>
+
+## About me 
+
 
 - 🌱 I’m currently learning **React, React-Native, Typescript**
 
