@@ -11,7 +11,7 @@ I finally found my calling and i can't wait to embark on new challenging project
 
 - 🌱 I’m currently learning **React, React-Native, Typescript**
 
-- 📫 How to reach me **Julie.dee.dev@gmail.com**
+- 📫 How to reach me **julie.dee.dev@gmail.com**
 
 - ⚡ Fun fact **i know the capital of every country in the world 😅**
 
