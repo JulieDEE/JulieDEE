@@ -20,6 +20,12 @@ I finally found my calling and i can't wait to embark on new challenging project
 
 ## PROJECTS 
 
+<p> 
+<img src="https://user-images.githubusercontent.com/107067269/189320080-a8615d86-4c26-4fb3-b95c-7273b2559726.png" width="300"/> 
+<span> VINTED CLONE - FULLSTACK - REACT / NODEJS  </span>
+
+</p>
+
 
 
 
