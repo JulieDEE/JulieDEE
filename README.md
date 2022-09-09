@@ -4,6 +4,10 @@
 
 ## About me 
 
+After 5 years in finance I realized I needed a new challenge. So I quit my job, and started learning programming, at first on my own.
+I quickly realized that there were a lot of things to learn and a lot of ways to do it. So, I decided to enrol in a 10-weeks intensive coding bootcamp : Le Reacteur, where I learned basics of programming but most of all : React.
+
+I finally found my calling and i can't wait to embark on new challenging projects ! 
 
 - 🌱 I’m currently learning **React, React-Native, Typescript**
 
