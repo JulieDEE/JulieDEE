@@ -27,30 +27,30 @@ I finally found my calling and i can't wait to embark on new challenging project
 </p>
 
 - **Vinted Clone**  : Fullstack website with responsive design (Auth, CRUD, Cookies, Stripe payment) / **REACT** / **NODEJS** / **MONGODB**
-<p>Url : <a>https://vinted-front-reacteur.netlify.app</a></p>
-<p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
-<p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
+    - <p>Url : https://vinted-front-reacteur.netlify.app </p>
+    - <p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
+    - <p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
 
 - **CHAT Application**  : Simple chat to learn Authentification and Snapshot with Firebase / **REACT** / **FIREBASE** / 
-<p>Repo Front : https://github.com/JulieDEE/Chat-App-React-Firebase</p>
+    - <p>Repo Front : https://github.com/JulieDEE/Chat-App-React-Firebase</p>
 
 - **Marvel API**  : Fullstack responsive WebSite using Marvel API (Auth, CRUD, Favorites, LocalStorage) / **REACT** / **NODEJS** / **MONGODB**
-<p>Url : <a>https://marvel-reacteur-julie.netlify.app</a></p>
-<p>Repo Front : https://github.com/JulieDEE/Marvel-React </p>
-<p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
+    - <p>Url : https://marvel-reacteur-julie.netlify.app</p>
+    - <p>Repo Front : https://github.com/JulieDEE/Marvel-React </p>
+    - <p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
 
 - **Vinted Clone**  : Fullstack website with responsive design / **REACT** / **NODEJS** / **MONGODB**
-<p>Url : <a>https://vinted-front-reacteur.netlify.app</a></p>
-<p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
-<p>Repo Back : https://github.com/JulieDEE/Marvel-backend </p>
+    - <p>Url : https://vinted-front-reacteur.netlify.app</p>
+    - <p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
+    - <p>Repo Back : https://github.com/JulieDEE/Marvel-backend </p>
 
 - **MVP**  : Fullstack Mobile Application (IOS & ANDROID) for MVP / **REACT-NATIVE** / **NODEJS** / **FORESTADMIN**
-<p>Frontend : Agenda, Appointment management, Audio Player </p>
-<p> Backend : CRUD, Authentification, backoffice with forestAdmin (content administration). 
-<p>Repo : Private </p>
+    - <p>Frontend : Agenda, Appointment management, Audio Player </p>
+    - <p> Backend : CRUD, Authentification, backoffice with forestAdmin (content administration). 
+    - <p>Repo : Private </p>
 
-- **Airbnb CLONE**  : ReactNative movile Application (location, device access) / **REACTNATIVE** 
-<p>Repo Front : https://github.com/JulieDEE/Airbnb-REACT-NATIVE-clone</p>
+- **E-Commerce**  : Fullstack E-commerce website (dynamic Cart, localStorage, backoffice, adress, Stripe Payment) / **REACT** / **NODEJS** 
+    - <p>Repo Front : https://github.com/JulieDEE/Airbnb-REACT-NATIVE-clone</p>
 
 
 ## Connect with me
