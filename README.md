@@ -1,6 +1,6 @@
+<img width="100%" src=https://user-images.githubusercontent.com/107067269/189478343-69fea2a7-7c0a-4920-a99c-685600e9d90d.gif  />
 
-![REACT-4](https://user-images.githubusercontent.com/107067269/188629529-bc62ce05-8dc4-4956-9681-0107f7b3822a.gif)
-<h3 align="center">Passionate Fullstack developper - Ready to work 🔥</h3>
+<h3 align="center">Passionate Fullstack Developer - Ready to work 🔥</h3>
 
 ## ABOUT ME 
 
@@ -57,10 +57,6 @@ I finally found my calling and i can't wait to embark on new challenging project
 
 <a href="https://linkedin.com/in/julie-dee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julie-dee" height="30" width="40" /></a>
 <a href="https://dev.to/julied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="julied" height="30" width="40" /></a>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/107067269/189477543-19372131-765f-4e8b-a93c-d858d6c123b3.gif" /> 
-</p>
 
 
 
