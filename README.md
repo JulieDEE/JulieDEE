@@ -54,9 +54,16 @@ I finally found my calling and i can't wait to embark on new challenging project
 
 
 ## Connect with me
-<p align="left">
-<a href="https://dev.to/julied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="julied" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/julie-dee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julie-dee" height="30" width="40" /></a>
+<a href="https://dev.to/julied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="julied" height="30" width="40" /></a>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107067269/189477543-19372131-765f-4e8b-a93c-d858d6c123b3.gif" /> 
 </p>
+
+
+
+
 
 
