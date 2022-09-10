@@ -20,21 +20,40 @@ I finally found my calling and i can't wait to embark on new challenging project
 
 ## PROJECTS 
 
-<p> 
-<img src="https://user-images.githubusercontent.com/107067269/189320080-a8615d86-4c26-4fb3-b95c-7273b2559726.png" width="300"/> 
-<span> VINTED CLONE - FULLSTACK - REACT / NODEJS  </span>
+<p align="center">
+
+![Bannière YouTube de Nourriture Vibrante Pêche et Orange](https://user-images.githubusercontent.com/107067269/189472348-8e62bf42-2d9c-4dc3-8074-e3babf7122f7.png)
 
 </p>
 
+- **Vinted Clone**  : Fullstack website with responsive design (Auth, CRUD, Cookies, Stripe payment) / **REACT** / **NODEJS** / **MONGODB**
+<p>Url : <a>https://vinted-front-reacteur.netlify.app</a></p>
+<p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
+<p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
+
+- **CHAT Application**  : Simple chat to learn Authentification and Snapshot with Firebase / **REACT** / **FIREBASE** / 
+<p>Repo Front : https://github.com/JulieDEE/Chat-App-React-Firebase</p>
+
+- **Marvel API**  : Fullstack responsive WebSite using Marvel API (Auth, CRUD, Favorites, LocalStorage) / **REACT** / **NODEJS** / **MONGODB**
+<p>Url : <a>https://marvel-reacteur-julie.netlify.app</a></p>
+<p>Repo Front : https://github.com/JulieDEE/Marvel-React </p>
+<p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
+
+- **Vinted Clone**  : Fullstack website with responsive design / **REACT** / **NODEJS** / **MONGODB**
+<p>Url : <a>https://vinted-front-reacteur.netlify.app</a></p>
+<p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
+<p>Repo Back : https://github.com/JulieDEE/Marvel-backend </p>
+
+- **MVP**  : Fullstack Mobile Application (IOS & ANDROID) for MVP / **REACT-NATIVE** / **NODEJS** / **FORESTADMIN**
+<p>Frontend : Agenda, Appointment management, Audio Player </p>
+<p> Backend : CRUD, Authentification, backoffice with forestAdmin (content administration). 
+<p>Repo : Private </p>
+
+- **Airbnb CLONE**  : ReactNative movile Application (location, device access) / **REACTNATIVE** 
+<p>Repo Front : https://github.com/JulieDEE/Airbnb-REACT-NATIVE-clone</p>
 
 
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://dev.to/julied" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="julied" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julie-dee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julie-dee" height="30" width="40" /></a>
