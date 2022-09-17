@@ -27,6 +27,7 @@ I finally found my calling and i can't wait to embark on new challenging project
 </p>
 
 - **Vinted Clone**  : Fullstack website with responsive design (Auth, CRUD, Cookies, Stripe payment) / **REACT** / **NODEJS** / **MONGODB**
+    - <p>Url responsive MUI design : https://vinted-clone-mui.netlify.app </p>  
     - <p>Url : https://vinted-front-reacteur.netlify.app </p>
     - <p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
     - <p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
