@@ -49,7 +49,7 @@ I finally found my calling and i can't wait to embark on new challenging project
     - <p>Repo : Private </p>
 
 - **E-Commerce**  : Fullstack E-commerce website (dynamic Cart, localStorage, backoffice, adress, Stripe Payment) / **REACT** / **NODEJS** 
-    - <p>Repo Front : https://github.com/JulieDEE/Airbnb-REACT-NATIVE-clone</p>
+ 
 
 
 ## Connect with me
