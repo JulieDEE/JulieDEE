@@ -40,10 +40,8 @@ I finally found my calling and i can't wait to embark on new challenging project
     - <p>Repo Front : https://github.com/JulieDEE/Marvel-React </p>
     - <p>Repo Back : https://github.com/JulieDEE/Vinted-API-Learn</p>
 
-- **Vinted Clone**  : Fullstack website with responsive design / **REACT** / **NODEJS** / **MONGODB**
-    - <p>Url : https://vinted-front-reacteur.netlify.app</p>
-    - <p>Repo Front : https://github.com/JulieDEE/Vinted-front</p>
-    - <p>Repo Back : https://github.com/JulieDEE/Marvel-backend </p>
+- **Mobile Airbnb Clone**  : Front Application : Auth, localisation / **REACT-NATIVE** 
+    - <p>Repo Front : https://github.com/JulieDEE/Airbnb-REACT-NATIVE-clone</p>
 
 - **MVP**  : Fullstack Mobile Application (IOS & ANDROID) for MVP / **REACT-NATIVE** / **NODEJS** / **FORESTADMIN**
     - <p>Frontend : Agenda, Appointment management, Audio Player </p>
